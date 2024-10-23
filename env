@@ -1,0 +1,6 @@
+# .env
+MYSQL_HOST=localhost
+MYSQL_USER=root
+MYSQL_PASSWORD=Rushi@123
+MYSQL_DATABASE=metric
+JWT_SECRET_KEY=jwt_secret_key
